@@ -1,2 +1,5 @@
 # neonvectors.io
-neonvectors.io site code 
+
+neonvectors.io site code
+
+TODO: everything
